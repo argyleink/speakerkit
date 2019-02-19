@@ -7,9 +7,8 @@ My public speaking kit for the event’s organizers.
 - [Keep in mind](#keep-in-mind-that)
 - [Personal informations](personalinfo.md)
 - [Biography](biography.md)
+- [History](history.md)
 - [Pictures](pictures/)
-
-If you want to see previous talks I gave, check my [speaking page](https://outofcomfortzone.net/speaking/).
 
 ## Requirements
 If you want me to speak at your event, here is a list of requirements before considering asking me:
