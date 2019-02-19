@@ -1,25 +1,23 @@
-## Personal Informations
+## Personal Information
 
 If you need anything else, please send me an email.
 
-**Name:** Frédéric Harper
+**Name:** Adam Argyle
 
-**Email:** [fharper@npmjs.com](mailto:fharper@npmjs.com)
+**Email:** [argyle@google.com](mailto:argyle@google.com)
 
-**Company:** npm, Inc.
+**Company:** Google
 
-**Company website:** <https://www.npmjs.com/>
+**Company Twitter:** [@ChromiumDev](https://twitter.com/ChromiumDev)
 
-**Company Twitter:** [@npmjs](https://twitter.com/npmjs)
+**Job title:** UI/CSS Developer Advocate
 
-**Job title:** Senior Developer Advocate
+**Languages:** English
 
-**Languages:** English & French
+**Website:** https://argyleink.com
 
-**Website:** https://outofcomfortzone.net/
+**Twitter:** [@argyleink](https://twitter.com/argyleink)
 
-**Twitter:** [@fharper](https://twitter.com/fharper)
+**LinkedIn:** <https://www.linkedin.com/in/adamargyle>
 
-**LinkedIn:** <https://www.linkedin.com/in/fredericharper/>
-
-**Location:** Montréal, Canada
+**Location:** Seattle, WA

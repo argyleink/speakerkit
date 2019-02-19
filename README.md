@@ -17,7 +17,7 @@ If you want me to speak at your event, here is a list of requirements before con
 * You have an enforced Code of Conduct (looking for one, check [confcodeofconduct.com)](https://github.com/confcodeofconduct/confcodeofconduct.com);
 * If you record my talk, the video needs to be accessible for free to everyone and cannot be sold in any capacity;
 * You want me to speak at your event because you find my content valuable for your attendees, not because you want my employer to sponsor your event;
-* You let me use my computer ([MacBook Air 2018](https://support.apple.com/kb/SP783?viewlocale=en_US&locale=en_US) - USB C);
+* You let me use my computer MacBook Pro 2017 - USB C;
 * You don't ask for talk materials in advance (unless there are live translations). I will gladly give my slides and code examples for you to share after my talk.
 
 ## Prioritization
@@ -25,10 +25,8 @@ I will prioritize events that are
 * giving me a prime speaking slot;
 * recording the talk;
 * paying for the travel arrangements;
-* making real efforts to promote diversity.
+* making real efforts to promote diversity;
 
 ## Keep in mind that...
 * I can give more than one talk if you want to maximize your budget;
-* I can give talks in French, but I prefer to deliver them in English;
-* I'll be more than happy to mentor other speakers;
-* My talks are all 45 minutes long, but I can adapt the content to any shorter time I have on the schedule.
+* I can adapt talks to grow or shrink in time

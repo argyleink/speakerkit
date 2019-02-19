@@ -1,10 +1,10 @@
 ## Biography
 
 ### English - full version (110 words - 703 characters)
-As a Senior Developer Advocate at npm, Frédéric Harper is helping developers being successful within the JavaScript world. Former Mozilla and Microsoft Technical Evangelist, he has had the pleasure to share his passion for technology at more than 140 events in about 20 countries. Capitalizing on his attention deficit and hyperactivity disorder (ADHD), Frédéric is always onto the next challenge. He is also the author of the “Success in Programming - How to Gain Recognition, Power, and Influence Through Personal Branding” book published at Apress. Behind this extrovert who lives by the no bullshit policy is a very passionate individual who believes in the power of communication... and cat videos.
+Adam is a bright, passionate, punk engineer with an adoration for the web. He prefers using his skills for best in class UI/UX and empowering those around him. While currently a developer advocate at Google on Chrome, he’s worked at small app agencies, medium design agencies, startups, and consulting companies. At those companies, his roles spanned product lead, front end architect, ui/ux engineer, ux designer, service designer and platform lead. These roles lead to developing over 50+ web apps across nearly every imaginable stack and screen size. His perspective on web dev is extracted from this experience. He is capable of over-engineering, but spends lots of brain power not. 
 
 ### English - medium size (68 words - 444 characters)
-As a Senior Developer Advocate at npm, Frédéric Harper is helping developers being successful within the JavaScript world. Former Mozilla and Microsoft Technical Evangelist, Frédéric is a prolific international public speaker and the author of a book on personal branding published at Apress. Behind this extrovert who lives by the no bullshit policy is a very passionate individual who believes in the power of communication... and cat videos.
+Adam is a bright, passionate, punk engineer with an adoration for the web who prefers using his skills for best in class UI/UX and empowering those around him. He’s worked at small and large companies, and built an app for pretty much every screen (or voice). He is capable of over-engineering, but spends lots of brain power not. Loves CSS, loves JS, loves great UX.
 
 ### English - tweet size version (16 words - 111 characters)
-Developer Advocate @ npmjs, former Mozilla & Microsoft one, Apress author, public speaker, #crazycatman & more
+Developer Advocate @ Google on Chrome, developer += designer, VisBug creator, CSS/JS/UX addict
